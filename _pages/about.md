@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Rachel Fox | University of California, Los Angeles"
+title: "Rachel Fox"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
 
 I am a student researcher and pre-medical neuroscience student at the University of California, Los Angeles.
 
 I am an undergraduate neuroscience student and researcher at the University of California, Los Angeles. I am interested in neurology and translational neuroscience, with a focus on the determination of biomarkers and the discovery of novel treatment and diagnostic targets. My research leverages imaging and systems neuroscience to explore cognitive and functional connectivity changes following traumatic brain injury (TBI) in rodent models. Currently, I work in the UCLA Brain Injury Research Center, where I integrate imaging techniques with behavioral analysis to deepen our understanding of TBI's impact on the brain.
 
 In addition to my work at UCLA, I am involved in clinical research in the neurosurgery department at Cedars-Sinai, where I study surgical outcomes for pituitary adenomas and contribute to clinical trials focused on pituitary adenoma and glioblastoma. I hope to extend my research into neurodegenerative diseases during my future MD/PhD training, with an emphasis on applying advanced imaging and experimental techniques to develop innovative treatments.
+
 
 Selected recent and current research projects:
 - Dynamic functional connectivity and network structure after TBI
@@ -23,20 +23,26 @@ Selected recent and current research projects:
 - Cognitive flexibility and functional imaging after rodent TBI
 - Analysis of functional connectivity after rodent brain injury using EEG and graph theory analysis
 
+## CV: 
+[My CV](/Users/rachelfox/rachelfox.github.io/files/Rachel Fox CV.pdf)
 
+## Publications:
 
+Different Trajectories of Functional Connectivity Captured with Gamma-Event Coupling and Broadband Measures of EEG in the Rat Fluid Percussion Injury Model
+Fox, R., Santana-Gomez, C., Shamas, M., Pavade, A., Staba, R., & Harris, N. G. (2024)
+doi: https://doi.org/10.1101/2024.06.02.597056
 
-**Markdown generator**
+Reversal of right ventricular pressure loading improves function independent of fibrosis
+Jones, X. M., Fox, R., Motawakel, J., & Trivedi, R. K. (2023).
+doi: https://doi.org/10.1113/JP283580
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Selected Conference Posters:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+[Dynamic versus Static Functional Network Analysis after Rodent TBI](https://doi.org/10.1089/neu.2024.41112.abstracts)
+View [PDF](https://rachelfox.github.io/files/dFC_Poster_NNS_2024.pdf)
+National Neurotrauma Society Symposium 2024
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[Electrographic Measures of Functional Connectivity May Reflect Different Neural Processes After Fluid Percussion Injury](https://doi.org/10.1089/neu.2023.29130.abstracts)
+View [PDF](https://rachelfox.github.io/files/GEC_Poster_NNS_2023.pdf)
+National Neurotrauma Society Symposium 2023
 
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

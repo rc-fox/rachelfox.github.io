@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rachel Fox / UCLA"
 title_separator          : "-"
 name                     : &name "Rachel Fox"
 description              : &description "Student Researcher"
@@ -21,12 +21,13 @@ repository               : "rc-fox/rachelfox.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://rachelfox.github.io/files/RachelFox_Headshot_2024.jpg"
   name             : "Rachel Fox"
   pronouns         : # example: "she/her"  
   bio              : "Neuroscience Student"
   location         : "Los Angeles, California"
-  employer         : "UCLA, Cedars Sinai Medical Center"
+  employer         : "UCLA"
+  employer         : "Cedars Sinai Medical Center"
   uri              : # URL
   email            : "rachelfox@ucla.edu" 
 
