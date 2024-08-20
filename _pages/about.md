@@ -40,10 +40,10 @@ doi: https://doi.org/10.1113/JP283580
 ## Selected Conference Posters:
 
 [Dynamic versus Static Functional Network Analysis after Rodent TBI](https://doi.org/10.1089/neu.2024.41112.abstracts)  
-View [PDF](https://rachelfox.github.io/files/dFC_Poster_NNS_2024.pdf)  
+View [PDF](https://rc-fox.github.io/rachelfox.github.io/files/dFC_Poster_NNS_2024.pdf)  
 National Neurotrauma Society Symposium 2024
 
 [Electrographic Measures of Functional Connectivity May Reflect Different Neural Processes After Fluid Percussion Injury](https://doi.org/10.1089/neu.2023.29130.abstracts)  
-View [PDF](https://rachelfox.github.io/files/GEC_Poster_NNS_2023.pdf)  
+View [PDF](https://rc-fox.github.io/rachelfox.github.io/files/dFC_Poster_NNS_2023.pdf)  
 National Neurotrauma Society Symposium 2023
 
