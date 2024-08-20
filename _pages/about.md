@@ -24,7 +24,6 @@ Selected recent and current research projects:
 - Analysis of functional connectivity after rodent brain injury using EEG and graph theory analysis
 
 ## CV: 
-
 [My CV](https://rc-fox.github.io/rachelfox.github.io/files/Rachel_Fox_CV.pdf)
 
 ## Publications:
