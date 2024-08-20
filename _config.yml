@@ -21,7 +21,7 @@ repository               : "rc-fox/rachelfox.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "RachelFox_Headshot_2024.jpg"
+  avatar           : "https://rc-fox.github.io/rachelfox.github.io/files/RachelFox_Headshot_2024.jpg"
   name             : "Rachel Fox"
   pronouns         : # example: "she/her"  
   bio              : "Neuroscience Student"
