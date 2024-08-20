@@ -23,11 +23,10 @@ author:
   # Biographic information
   avatar           : "https://rc-fox.github.io/rachelfox.github.io/files/RachelFox_Headshot_2024.jpg"
   name             : "Rachel Fox"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Neuroscience Student"
   location         : "Los Angeles, California"
   employer         : "UCLA"
-  employer         : "Cedars Sinai Medical Center"
   uri              : # URL
   email            : "rachelfox@ucla.edu" 
 
