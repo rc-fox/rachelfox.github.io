@@ -43,6 +43,6 @@ View [PDF](https://rc-fox.github.io/rachelfox.github.io/files/dFC_Poster_NNS_202
 National Neurotrauma Society Symposium 2024
 
 [Electrographic Measures of Functional Connectivity May Reflect Different Neural Processes After Fluid Percussion Injury](https://doi.org/10.1089/neu.2023.29130.abstracts)  
-View [PDF](https://rc-fox.github.io/rachelfox.github.io/files/GEC_Poster_NNS_2023.pdf)  
+View [PDF](https://rc-fox.github.io/rachelfox.github.io/files/Poster_NNS_2023.pdf)  
 National Neurotrauma Society Symposium 2023
 
