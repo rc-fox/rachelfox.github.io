@@ -25,7 +25,7 @@ Selected recent and current research projects:
 
 ## CV: 
 
-[My CV](/Users/rachelfox/rachelfox.github.io/files/Rachel Fox CV.pdf)
+[My CV](https://rc-fox.github.io/rachelfox.github.io/files/Rachel_Fox_CV.pdf)
 
 ## Publications:
 
