@@ -12,8 +12,8 @@ title                    : "Rachel Fox / UCLA"
 title_separator          : "-"
 name                     : &name "Rachel Fox"
 description              : &description "Student Researcher"
-url                      : https://rachelfox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://rc-fox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/rachelfox.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "rc-fox/rachelfox.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
